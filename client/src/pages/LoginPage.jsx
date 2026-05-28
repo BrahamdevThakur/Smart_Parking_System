@@ -85,11 +85,11 @@ export default function LoginPage() {
           </form>
 
           {/* Demo credentials */}
-          <div className="mt-5 p-3.5 bg-slate-800/40 rounded-xl border border-slate-700/40">
+          {/* <div className="mt-5 p-3.5 bg-slate-800/40 rounded-xl border border-slate-700/40">
             <p className="text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">Demo Admin</p>
             <p className="text-xs text-slate-400 font-mono">admin@parkingsystem.com</p>
             <p className="text-xs text-slate-400 font-mono">admin123</p>
-          </div>
+          </div> */}
 
           <p className="text-center text-sm text-slate-500 mt-6">
             Don't have an account?{' '}

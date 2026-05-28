@@ -1,0 +1,22 @@
+# Dependencies
+**/node_modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+server/.env
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Misc
+database.db
+.DS_Store
+Thumbs.db
+
+# Package locks (optional - usually keep these)
+# client/package-lock.json
+# server/package-lock.json
